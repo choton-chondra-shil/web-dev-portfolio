@@ -168,6 +168,7 @@ main section{
 }
 .footer-column{
     width:50;
+    /* display: flex; */
 }
 footer input[type="text"]{
 height: 20px;
@@ -178,5 +179,4 @@ width: 210px;
 padding: 10px 20px;
 margin-bottom: 24px;
 border: none;
-
 }
