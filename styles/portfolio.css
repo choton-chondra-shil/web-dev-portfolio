@@ -119,11 +119,8 @@ main{
 .item-description{
     font-weight: 600;
 }
-
 .about-items{
     display: flex;
     justify-content: space-around;
 
 }
-
-
